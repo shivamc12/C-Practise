@@ -1,2 +1,2 @@
 # CPP-Practise
-THIS ALL ARE MY PRACTISE PROBLEMS OF CPP
+These are some of my practice questions of C++.
